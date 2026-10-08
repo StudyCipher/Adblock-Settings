@@ -139,7 +139,7 @@ https://divested.dev/blocklists/Mozilla.txt
 # Divested Cameras:
 #https://divested.dev/blocklists/Cameras.txt
 
-# AssoEchap Stalkerware-indicators Quad9::
+# AssoEchap Stalkerware-indicators Quad9:
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
 
 # AssoEchap Stalkerware-indicators Hosts full:

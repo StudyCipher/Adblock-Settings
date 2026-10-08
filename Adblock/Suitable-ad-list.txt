@@ -1,1 +1,155 @@
+# Hagezi Ultimate:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
 
+# Hagezi Multi PRO++:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
+
+# Hagezi DNS Rebind Protection:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt
+
+# Hagezi DoH/VPN/Tor/Proxy Bypass:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
+
+# Hagezi Most Abused TLDs:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-ublock.txt
+
+# Hagezi URL Shortener, blocks link shorteners:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/urlshortener.txt
+
+# Hagezi Anti Piracy:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/anti.piracy.txt
+
+# Hagezi Gambling:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt
+
+# Hagezi Social Networks:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/social.txt
+
+# Hagezi NSFW:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt
+
+# Hagezi Fake, blocks scams, traps, and fake sites:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
+
+# Hagezi Pop-Up Ads, stops annoying and malicious pop-ups:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/popupads.txt
+
+# Hagezi TIF:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+
+# Hagezi Dynamic DNS:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
+
+# Hagezi Badware Hoster, guards against malicious hosting services:
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt
+
+# Hagezi Newly Registered Domains (NRD/DGA):
+https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/adblock/dga30.txt
+
+# Hagezi Amazon:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.amazon.txt
+
+# Hagezi Apple:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.apple.txt
+
+# Hagezi Huawei:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.huawei.txt
+
+# Hagezi Microsoft:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt
+
+# Hagezi Samsung:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.samsung.txt
+
+# Hagezi TikTok (Fingerprinting):
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt
+
+# Hagezi TikTok (Fingerprinting) Aggressive:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt
+
+# Hagezi LG webOS:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.lgwebos.txt
+
+# Hagezi Roku:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.roku.txt
+
+# Hagezi Vivo:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.vivo.txt
+
+# Hagezi OPPO/Realme:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.oppo-realme.txt
+
+# Hagezi Xiaomi:
+#https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.txt
+
+# URLHAUS Abuse:
+https://urlhaus.abuse.ch/downloads/hostfile
+
+# URLHAUS Gitlab Malware:
+https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+
+# THREATFOX:
+https://threatfox.abuse.ch/downloads/hostfile
+
+# AdguardDNS:
+https://v.firebog.net/hosts/AdguardDNS.txt
+
+# Adguard Mobile:
+https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt
+
+# Adguard Cryptominers:
+https://adguardteam.github.io/AdguardFilters/BaseFilter/sections/cryptominers.txt
+
+# Adguard Phishing URL Blocklist:
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
+
+# Easylist Firebog Privacy:
+https://v.firebog.net/hosts/Easyprivacy.txt
+
+# Easylist AI:
+https://github.com/uBlockOrigin/uAssets/blob/master/thirdparties/easylist/easyprivacy.txt
+
+# EasyList Hebrew:
+https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew-uBO.txt
+
+# Block Outsider Intrusion into LAN:
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/lan-block.txt
+
+# someonewhocares:
+https://someonewhocares.org/hosts/zero/hosts
+
+# SWEDISH:
+https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+
+# PERSIAN:
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
+
+# StevenBlack:
+https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts
+
+# Link Shortener:
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/ubo-link-shorteners.txt
+
+# Divested Scams:
+#https://divested.dev/blocklists/Scams.txt
+
+# Divested Mozilla:
+https://divested.dev/blocklists/Mozilla.txt
+
+# Divested Cameras:
+#https://divested.dev/blocklists/Cameras.txt
+
+# AssoEchap Stalkerware-indicators Quad9::
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
+
+# AssoEchap Stalkerware-indicators Hosts full:
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/master/generated/hosts_full
+
+# DNSFORGE.DE BLOCKLIST:
+#https://dnsforge.de/blocklist.list
+
+# The Block List Project Phishing:
+https://blocklistproject.github.io/Lists/phishing.txt
+
+# The Block List Project Ransomware:
+https://blocklistproject.github.io/Lists/ransomware.txt

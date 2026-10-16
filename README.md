@@ -6,4 +6,4 @@ Currently working in browser and DNS settings.
 - Linux I will use Linux shell scripting (.sh) or plain text (.txt) files.
 - Android still looking for templates, I am only seeing that works with Enterprises enviroments, stand still I will leave some plain text (.txt) files to display compatible FLAGS settings.
 
-I may change this repository name.
+Some commnads and scripts need to have kind of knowledge before being executed.

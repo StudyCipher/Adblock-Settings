@@ -1,4 +1,10 @@
-# Hagezi Ultimate:
+# Badblock Restrict WebRTC (From IronFox):
+https://badblock.celenity.dev/hardened/block-webrtc.txt
+
+# Badblock Unbreak WebRTC (From IronFox):
+https://badblock.celenity.dev/hardened/unbreak-webrtc.txt
+
+# Hagezi Multi Ultimate:
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
 
 # Hagezi Multi PRO++:
@@ -112,7 +118,7 @@ https://github.com/uBlockOrigin/uAssets/blob/master/thirdparties/easylist/easypr
 # EasyList Hebrew:
 https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew-uBO.txt
 
-# Block Outsider Intrusion into LAN:
+# uBlockOrigin Block Outsider Intrusion into LAN:
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/lan-block.txt
 
 # someonewhocares:
@@ -148,8 +154,8 @@ https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/ma
 # DNSFORGE.DE BLOCKLIST:
 #https://dnsforge.de/blocklist.list
 
-# The Block List Project Phishing:
+# The Blocklist Project Phishing:
 https://blocklistproject.github.io/Lists/phishing.txt
 
-# The Block List Project Ransomware:
+# The Blocklist Project Ransomware:
 https://blocklistproject.github.io/Lists/ransomware.txt

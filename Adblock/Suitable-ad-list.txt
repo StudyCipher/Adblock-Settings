@@ -1,3 +1,11 @@
+# These lists are recommened to increase security and privacy.
+
+# WebRTC may block some Discord, Zoom, Slackware, WhatsApp calls.
+# Dynamic DNS & Newly Registered Domains (NRD/DGA) may block some legitimate websites.
+# DoH/VPN/Tor/Proxy Bypass will block any other DNS (Encrypted).
+# Most Abused TLDs may block some legitimate websites.
+
+
 # Badblock Restrict WebRTC (From IronFox):
 https://badblock.celenity.dev/hardened/block-webrtc.txt
 

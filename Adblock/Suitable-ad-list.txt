@@ -5,7 +5,7 @@
 # DoH/VPN/Tor/Proxy protections will block any other DNS (Encrypted).
 # Most Abused TLDs protection may block some legitimate websites.
 
-
+## Filtrers used for adblockers like uBlock origin, native Brave shield...
 # Badblock Restrict WebRTC (From IronFox):
 https://badblock.celenity.dev/hardened/block-webrtc.txt
 

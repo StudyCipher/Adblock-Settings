@@ -1,0 +1,20 @@
+https://roundproxies.com/blog/webrtc-leaks/
+
+# Rules for firewall (IN) and (OUT)
+WebRTC (UDP)
+3478,19302-19309,5349
+
+WebRTC (TCP)
+5349
+
+
+# Firefox (about:config):
+media.peerconnection.ice.default_address_only = true
+media.peerconnection.ice.no_host = true
+media.peerconnection.ice.proxy_only_if_behind_proxy = true
+media.peerconnection.ice.relay_only = false
+
+media.peerconnection.ice.obfuscate_host_addresses = true
+
+# Chromium (brave://flags/); (Chrome://flags/):
+enable-webrtc-hide-local-ips-with-mdns=Enabled

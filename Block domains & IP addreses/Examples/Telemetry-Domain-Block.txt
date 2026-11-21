@@ -1,3 +1,6 @@
+# Domains you should never block except you want to stop working your programs are:
+"www.google.com" & "google.com" are vital for most applications such as Zoom meetings, videogames like Rainbow Six Siege to verify your account.
+
 # Google search:
 #google.com
 google.ac
@@ -408,7 +411,7 @@ www.google.vu
 www.google.ws
 www.g.cn
 
-# Porn:
+# Porn websites:
 www.pornhub.com
 www.xvideos.com
 xhamster.com

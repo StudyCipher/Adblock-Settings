@@ -165,7 +165,7 @@ x-hagezi-ultimate.freedns.controld.com
 x-hagezi-tif.freedns.controld.com
 x-adguard.freedns.controld.com
 # dnsforge.de (German Only):
-#dnsforge.de
+dnsforge.de
 blank.dnsforge.de
 hard.dnsforge.de
 clean.dnsforge.de

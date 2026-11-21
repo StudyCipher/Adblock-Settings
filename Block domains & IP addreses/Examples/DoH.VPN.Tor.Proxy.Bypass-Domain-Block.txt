@@ -1,3 +1,4 @@
+# DNS domains:
 dns.google
 dns64.dns.google
 cloudflare-dns.com

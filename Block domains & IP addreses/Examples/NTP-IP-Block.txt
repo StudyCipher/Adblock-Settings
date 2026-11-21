@@ -1,0 +1,5 @@
+# These are going to show servers that are founded out with 'dig' and with 'nslookup'.
+
+# It is going to be in order from the domain file (NTP-IP-Block.txt) otherwise it will be very confusing for some people for the reason they change a lot for same domain and subdomain.
+
+# Impossible NTP servers to be blocked by IP addresses are "pool.ntp.org" and its own subdomains, for the reason it can translate to any NTP domain in any available country in the world. Still working to find out in real time, but may the list to long and heavy resource for most machines.

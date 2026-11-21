@@ -22,9 +22,11 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 family.dns.mullvad.net
 all.dns.mullvad.net
+freedns.controld.com
 p0.freedns.controld.com
 p1.freedns.controld.com
 p3.freedns.controld.com
+family.freedns.controld.com
 uncensored.freedns.controld.com
 x-oisd.freedns.controld.com
 x-oisd-basic.freedns.controld.com

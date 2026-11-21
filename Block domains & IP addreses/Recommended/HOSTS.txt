@@ -143,12 +143,12 @@ extended.dns.mullvad.net
 family.dns.mullvad.net
 all.dns.mullvad.net
 - Control D 1st Party:
-#freedns.controld.com
+freedns.controld.com
 p0.freedns.controld.com
 p1.freedns.controld.com
-#p2.freedns.controld.com
+p2.freedns.controld.com
 p3.freedns.controld.com
-#family.freedns.controld.com
+family.freedns.controld.com
 uncensored.freedns.controld.com
 - Control D 3rd Party:
 x-oisd.freedns.controld.com
